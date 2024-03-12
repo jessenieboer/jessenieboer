@@ -1,21 +1,18 @@
 hello, world!
 
 ** About me
-I used to be a programmer for [[https://www.vermeer.com/na][Vermeer Corporation]], a global manufacturing company, but a [[https://ryr1.org/][genetic muscle disease]] interrupted my career in 2017. Having spent years resting, adjusting to my limitations, and experimenting with different techniques and technologies, I'm tentatively, but enthusiastically, reemerging into public.
+I used to be a programmer for [[https://www.vermeer.com/na][Vermeer Corporation]], a global manufacturing company, but a [[https://ryr1.org/][genetic muscle disease]] interrupted my career in 2017. Having spent years resting, adjusting to my limitations, and experimenting with different techniques and technologies, I'm tentatively, but enthusiastically, reemerging into professsional life.
 
 ** Current endeavors
-- Customizing Emacs to further enable efficient computer use
-- Building a primary development environment with NixOS
+- Brushing up on marketable skills
   
 ** Past endeavors
 - Designed the [[https://github.com/jessenieboer/relax-keyboard-layout][Relax Keyboard Layout]] to minimize muscle movement while typing
 
 ** Future Endeavors?
-- Develop my own system of work management in Emacs
-- Learn Lisp
+- Study ontology and knowledge organization
 - Learn Haskell
 - Learn language development with Racket
-- Study ontology and knowledge organization
 
 ** Other interests
 - [[https://www.youtube.com/watch?v=ji0XgjPumVI&t=106s][the kingdom of God]]
